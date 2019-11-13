@@ -1,4 +1,4 @@
-tlmgr update --self
-tlmgr install titlesec
-tlmgr install titling
-pdflatex cv.tex
+sudo tlmgr update --self
+sudo tlmgr install titlesec
+sudo tlmgr install titling
+sudo pdflatex cv.tex
